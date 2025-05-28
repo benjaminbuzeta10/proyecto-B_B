@@ -14,4 +14,4 @@ parece que otro parrafo
 
 ![imagen de gato xd](./imagenes/imagen_de_gato.jpg)
 
-<img src="./imagenes/imagen_de_gato.jpg" alt="imagen de gato xd" style="with:300px" >
+<img src="./imagenes/imagen_de_gato.jpg" alt="imagen de gato xd" style="width:300px" >
