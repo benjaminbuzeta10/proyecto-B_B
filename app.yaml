@@ -1,5 +1,13 @@
 runtime: python39
 
 handlers:
-  - url: /.*
-    script: auto
+  - url: /
+    static_files: index.html
+    upload: index.html
+
+  - url: /adios
+    static_files: adios.html
+    upload: adios.html
+
+  - url: /imagenes
+    static_dir: imagenes
